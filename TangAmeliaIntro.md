@@ -1,0 +1,1 @@
+Hi my name is Amelia Tang. I'm a Junior and I'm majoring in Economics and Minoring in Data Science. The programming language I'm familiar with is Python. A project I am proud of a Business Operations Research Project that I completed in the past. 
